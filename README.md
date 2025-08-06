@@ -41,6 +41,8 @@ And the appearance would be:
 
 ## Project status
 
-Disclaimer: Regardless of the status of the Kimera project described on this site, the authors are not responsible for its proper functioning or misuse, nor for any physical or moral damage that may be suffered by anyone who uses the information provided here.
-
 > 5/8/2025: Request to JLCPCB for 5 boards for the Kimera V-0.2 prototype.
+
+## Disclaimer
+
+Regardless of the status of the Kimera project described on this site, the authors are not responsible for its proper functioning or misuse, nor for any physical or moral damage that may be suffered by anyone who uses the information provided here.
