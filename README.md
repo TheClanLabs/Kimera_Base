@@ -32,12 +32,12 @@ The elements used in the project would be:
 The circuit diagram would be:
 
 
-![Scheme v-0.2](https://github.com/EduardoGuirado/Kimera_meshtastic_PBC/blob/main/Scheme_Kimera_V-0.2.png)
+![Scheme v-0.2](https://github.com/TheClanLabs/Kimera_Base/blob/main/Scheme_Kimera_V-0.2.png)
 
 And the appearance would be:
 
-![3D-Top](https://github.com/EduardoGuirado/Kimera_meshtastic_PBC/blob/main/Kimera_1.png)
-![3d-Bak](https://github.com/EduardoGuirado/Kimera_meshtastic_PBC/blob/main/Kimera_2.png)
+![3D-Top](https://github.com/TheClanLabs/Kimera_Base/blob/main/Kimera_1.png)
+![3d-Bak](https://github.com/TheClanLabs/Kimera_Base/blob/main/Kimera_2.png)
 
 ## Project status
 
