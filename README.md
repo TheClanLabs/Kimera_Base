@@ -45,6 +45,8 @@ And the appearance would be:
 
 > 6/8/2025 The component E22-900M30S was ordered from Aliexpress.
 
+> 7/8/2025 The board ESP32-DevKitC with ESP32-WROOM-32U was ordered from Aliexpress.
+
 ## Disclaimer
 
 Regardless of the status of the Kimera project described on this site, the authors are not responsible for its proper functioning or misuse, nor for any physical or moral damage that may be suffered by anyone who uses the information provided here.
