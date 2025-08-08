@@ -41,11 +41,11 @@ And the appearance would be:
 
 ## Project status
 
-> 5/8/2025: Request to JLCPCB for 5 boards for the Kimera V-0.2 prototype.
+> 5/8/2025: Request to JLCPCB for 5 boards for the Kimera V-0.2 prototype. (7.22€)
 
-> 6/8/2025 The component E22-900M30S was ordered from Aliexpress.
+> 6/8/2025 The component E22-900M30S was ordered from Aliexpress. (8.09€)
 
-> 7/8/2025 The board ESP32-DevKitC with ESP32-WROOM-32U was ordered from Aliexpress.
+> 7/8/2025 The board ESP32-DevKitC with ESP32-WROOM-32U was ordered from Aliexpress. (3.79€)
 
 ## Disclaimer
 
