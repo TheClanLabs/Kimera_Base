@@ -53,6 +53,8 @@ And the appearance would be:
 
 > The E22-900M30S documentation recommends avoiding PCB traces from passing under the component. In version 0.2, some traces do not meet this recommendation, so future versions will require this recommendation, even if it means increasing the board width.
 
+> When the kit is connected via USB, the 5V pin outputs less than 5 volts, as it is a 5V USB connection that passes through a Schottky diode with its corresponding voltage drop. Although the RF module can operate with less than 5V, the recommendation is to get as close to 5V as possible. The solution may be to use a different socket for the power supply and reserve the USB socket for the firmware update.
+
 ## Disclaimer
 
 Regardless of the status of the Kimera project described on this site, the authors are not responsible for its proper functioning or misuse, nor for any physical or moral damage that may be suffered by anyone who uses the information provided here.
