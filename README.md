@@ -47,6 +47,12 @@ And the appearance would be:
 
 > 7/8/2025 The board ESP32-DevKitC with ESP32-WROOM-32U was ordered from Aliexpress. (3.79€)
 
+> 19/8/2025 Received from Aliexpress the board ESP32-DevKitC and the component E22-900M30S
+
+## To be kept in mind for the following versions
+
+> The E22-900M30S documentation recommends avoiding PCB traces from passing under the component. In version 0.2, some traces do not meet this recommendation, so future versions will require this recommendation, even if it means increasing the board width.
+
 ## Disclaimer
 
 Regardless of the status of the Kimera project described on this site, the authors are not responsible for its proper functioning or misuse, nor for any physical or moral damage that may be suffered by anyone who uses the information provided here.
