@@ -49,7 +49,7 @@ And the appearance would be:
 
 > 19/8/2025 Received from Aliexpress the board ESP32-DevKitC and the component E22-900M30S
 
-> 8/19/2025 Testing Meshtastic firmware installation on ESP32-WROOM-32U successfully.
+> 19/8/2025 Testing Meshtastic firmware installation on ESP32-WROOM-32U successfully.
 
 ## To be kept in mind for the following versions
 
