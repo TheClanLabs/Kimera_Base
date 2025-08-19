@@ -41,7 +41,7 @@ And the appearance would be:
 
 ## Project status
 
-> 5/8/2025: Request to JLCPCB for 5 boards for the Kimera V-0.2 prototype. (7.22€)
+> 5/8/2025 Request to JLCPCB for 5 boards for the Kimera V-0.2 prototype. (7.22€)
 
 > 6/8/2025 The component E22-900M30S was ordered from Aliexpress. (8.09€)
 
