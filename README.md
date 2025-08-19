@@ -49,6 +49,8 @@ And the appearance would be:
 
 > 19/8/2025 Received from Aliexpress the board ESP32-DevKitC and the component E22-900M30S
 
+> 8/19/2025 Testing Meshtastic firmware installation on ESP32-WROOM-32U successfully.
+
 ## To be kept in mind for the following versions
 
 > The E22-900M30S documentation recommends avoiding PCB traces from passing under the component. In version 0.2, some traces do not meet this recommendation, so future versions will require this recommendation, even if it means increasing the board width.
