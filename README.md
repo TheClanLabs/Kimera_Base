@@ -51,6 +51,8 @@ And the appearance would be:
 
 > 19/8/2025 Testing Meshtastic firmware installation on ESP32-WROOM-32U successfully.
 
+> 30/8/2025 The components were welded and integrated into the Madrid mesh for testing.
+
 ## To be kept in mind for the following versions
 
 > The E22-900M30S documentation recommends avoiding PCB traces from passing under the component. In version 0.2, some traces do not meet this recommendation, so future versions will require this recommendation, even if it means increasing the board width.
