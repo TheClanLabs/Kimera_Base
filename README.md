@@ -1,4 +1,7 @@
 # Kimera_Base
+
+Important information: The content of this repository has been migrated to https://github.com/TheClanLabs/TheClanKimera/tree/main/KimeraBase/KimeraBaseV-0.2 and this information will be discontinued as of September 17, 2025.
+
 Open-source hardware project consisting of the creation of a device capable of connecting to the Meshtastic network, compatible with the Hydra project, but simplifying its construction.
 
 ## Features
